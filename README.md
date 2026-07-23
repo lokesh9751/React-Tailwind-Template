@@ -2,14 +2,6 @@
 
 A clean React + Vite + Tailwind CSS starter template. This template removes the default Vite demo and comes with Tailwind CSS already configured, so you can start building immediately.
 
-## Features
-
-- React + Vite
-- Tailwind CSS pre-configured
-- Clean project structure
-- Default Vite page removed
-- Ready to use
-
 ---
 
 ## Prerequisites
